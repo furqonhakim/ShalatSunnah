@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShalatSunnah</string>
+    <string name="tahajjud">Tahajjud</string>
+    <string name="syuruq">Syuruq</string>
+    <string name="tahiyatullmasjid">tahiyatullmasjid</string>
+    <string name="istikoroh">Istikoroh</string>
+    <string name="rawatib">Rawatib</string>
+    <string name="witir">Witir</string>
+    <string name="dhuha">dhuha</string>
+</resources>
