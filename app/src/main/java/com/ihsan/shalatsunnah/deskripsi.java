@@ -16,6 +16,8 @@ public class deskripsi extends AppCompatActivity {
 
 
         Intent deskripsi = getIntent();
+                getSupportActionBar().setDisplayShowHomeEnabled(true);
+
 
         String link = deskripsi.getStringExtra("sunnah");
 
